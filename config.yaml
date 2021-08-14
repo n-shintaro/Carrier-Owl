@@ -3,8 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        Robotics: 5
-        User preference: 3
+        Robotics User preference: 5
+        Robotics reinforcement learning: 3
+        Robotics navigation: 2
 
 # 通知の閾値
 score_threshold: 0
